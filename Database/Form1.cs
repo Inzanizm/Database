@@ -1,4 +1,4 @@
-//Para ma access yung sqlllll
+//Para ma access yung sql
 using MySql.Data.MySqlClient;
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
