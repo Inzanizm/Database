@@ -95,9 +95,9 @@ namespace Database
             {
 
                 this.WindowState = FormWindowState.Maximized;
-                button1.Location = new Point(400,699);
+                button1.Location = new Point(400, 699);
                 button1.Size = new Size(290, 140);
-                panel1.Size = new Size(300,50);
+                panel1.Size = new Size(300, 50);
                 panel1.Location = new Point(557, 0);
 
             }
@@ -105,7 +105,7 @@ namespace Database
             {
                 this.WindowState = FormWindowState.Normal;
                 button1.Location = new Point(172, 330);
-                button1.Size = new Size(120,65);
+                button1.Size = new Size(120, 65);
                 panel1.Size = new Size(146, 41);
 
             }
